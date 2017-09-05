@@ -1,0 +1,35 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+#: sp_launcher_unit1.textfullscreen
+msgid "fullscreen"
+msgstr ""
+
+#: sp_launcher_unit1.textwindowed
+msgid "windowed"
+msgstr ""
+
+#: tform1.button1.caption
+msgctxt "TFORM1.BUTTON1.CAPTION"
+msgid "Save and exit"
+msgstr ""
+
+#: tform1.button2.caption
+msgctxt "TFORM1.BUTTON2.CAPTION"
+msgid "Save and launch the game"
+msgstr ""
+
+#: tform1.caption
+msgid "Spelunky Classic HD Launcher"
+msgstr ""
+
+#: tform1.label1.caption
+msgctxt "TFORM1.LABEL1.CAPTION"
+msgid "Mode:"
+msgstr ""
+
+#: tform1.label2.caption
+msgctxt "TFORM1.LABEL2.CAPTION"
+msgid "Language:"
+msgstr ""
+

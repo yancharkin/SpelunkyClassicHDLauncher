@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: Poedit 1.8.11\n"
+
+#: sp_launcher_unit1.textfullscreen
+msgid "fullscreen"
+msgstr "fullscreen"
+
+#: sp_launcher_unit1.textwindowed
+msgid "windowed"
+msgstr "windowed"
+
+#: tform1.button1.caption
+msgctxt "TFORM1.BUTTON1.CAPTION"
+msgid "Save and exit"
+msgstr "Save and exit"
+
+#: tform1.button2.caption
+msgctxt "TFORM1.BUTTON2.CAPTION"
+msgid "Save and launch the game"
+msgstr "Save and launch the game"
+
+#: tform1.caption
+msgid "Spelunky Classic HD Launcher"
+msgstr "Spelunky Classic HD Launcher"
+
+#: tform1.label1.caption
+msgctxt "TFORM1.LABEL1.CAPTION"
+msgid "Mode:"
+msgstr "Mode:"
+
+#: tform1.label2.caption
+msgctxt "TFORM1.LABEL2.CAPTION"
+msgid "Language:"
+msgstr "Language:"
+
