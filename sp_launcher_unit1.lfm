@@ -1,12 +1,12 @@
 object Form1: TForm1
-  Left = 532
-  Height = 419
-  Top = 241
-  Width = 536
+  Left = 383
+  Height = 420
+  Top = 229
+  Width = 534
   BorderStyle = bsDialog
   Caption = 'Spelunky Classic HD Launcher'
-  ClientHeight = 419
-  ClientWidth = 536
+  ClientHeight = 420
+  ClientWidth = 534
   Icon.Data = {
     3E42000000000100010040400000010020002842000016000000280000004000
     0000800000000100200000000000004000006400000064000000000000000000
@@ -580,6 +580,7 @@ object Form1: TForm1
     Top = 256
     Width = 302
     ItemHeight = 0
+    Style = csDropDownList
     TabOrder = 0
   end
   object ComboBox2: TComboBox
@@ -588,6 +589,7 @@ object Form1: TForm1
     Top = 296
     Width = 302
     ItemHeight = 0
+    Style = csDropDownList
     TabOrder = 1
   end
   object Button1: TButton
