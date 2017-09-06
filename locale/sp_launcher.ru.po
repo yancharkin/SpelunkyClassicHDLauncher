@@ -42,4 +42,3 @@ msgstr "Режим:"
 msgctxt "TFORM1.LABEL2.CAPTION"
 msgid "Language:"
 msgstr "Язык:"
-

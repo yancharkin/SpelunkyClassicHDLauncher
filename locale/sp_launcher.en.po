@@ -42,4 +42,3 @@ msgstr "Mode:"
 msgctxt "TFORM1.LABEL2.CAPTION"
 msgid "Language:"
 msgstr "Language:"
-

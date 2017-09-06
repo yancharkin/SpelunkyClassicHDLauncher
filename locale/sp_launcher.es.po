@@ -31,7 +31,7 @@ msgstr "Guardar y iniciar el juego"
 
 #: tform1.caption
 msgid "Spelunky Classic HD Launcher"
-msgstr "Spelunky Classic HD Launcher"
+msgstr "Lanzador Spelunky Classic HD"
 
 #: tform1.label1.caption
 msgctxt "TFORM1.LABEL1.CAPTION"
@@ -41,5 +41,4 @@ msgstr "Modo:"
 #: tform1.label2.caption
 msgctxt "TFORM1.LABEL2.CAPTION"
 msgid "Language:"
-msgstr "Lengua:"
-
+msgstr "Idioma:"
