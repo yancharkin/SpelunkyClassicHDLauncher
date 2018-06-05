@@ -1,2 +1,2 @@
 # Spelunky Classic HD Launcher
-Simple launcher for [Spelunky Classic HD](https://github.com/yancharkin/SpelunkyClassicHD)
+Simple launcher for [Spelunky Classic HD](https://yancharkin.itch.io/spelunky-classic-hd) ([Bitbucket](https://bitbucket.org/yancharkin/spelunkyclassichd/src/master/), [Github](https://github.com/yancharkin/SpelunkyClassicHD), [Gitlab](https://gitlab.com/yancharkin/SpelunkyClassicHD))
